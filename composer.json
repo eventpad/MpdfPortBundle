@@ -3,7 +3,7 @@
     "type": "symfony-bundle",
     "description": "A wrapper for mPDF class which allows to use mPDF in Symfony2 projects",
     "keywords": ["mPDF", "PDF"],
-    "homepage": "http://github.com/tasmanianfox/MpdfPortBundle",
+    "homepage": "http://github.com/eventpad/MpdfPortBundle",
     "license": "MIT",
     "authors": [
         {
